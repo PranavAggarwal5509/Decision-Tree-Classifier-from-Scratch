@@ -14,12 +14,6 @@ CSV Support: Can be tested on custom datasets with CSV files.
 
 Evaluation: Reports accuracy, dataset details, and sample predictions.
 
-📂 Project Structure
-├── decision_tree.py   # Core implementation of DecisionTreeClassifier
-├── datasets_test.py   # Functions to test on built-in datasets
-├── custom_csv_test.py # Function to test on custom CSV file
-├── README.md          # Project documentation
-
 ⚙️ How It Works
 
 Entropy Calculation: Measures dataset impurity.
