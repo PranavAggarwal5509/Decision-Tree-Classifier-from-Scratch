@@ -48,23 +48,6 @@ KDDCup99 (simplified to binary classification)
 
 Synthetic classification dataset
 
-▶️ Usage
-1. Clone Repository
-git clone https://github.com/yourusername/decision-tree-from-scratch.git
-cd decision-tree-from-scratch
-
-2. Install Requirements
-pip install numpy pandas scikit-learn
-
-3. Run Tests on Built-in Datasets
-python decision_tree.py
-
-4. Test on Custom CSV
-
-Uncomment and modify in decision_tree.py:
-
-test_on_csv("path/to/your_data.csv", target_column="column_name")
-
 📈 Sample Output
 ==================================================
 Testing on iris dataset
